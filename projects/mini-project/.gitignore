@@ -1,0 +1,8 @@
+#Hides sensitive files from being tracked by git.
+.env
+*.env
+
+# Ignore Python virtual environments
+.venv/
+venv/
+env/
